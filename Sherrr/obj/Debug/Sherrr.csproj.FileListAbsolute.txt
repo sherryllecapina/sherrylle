@@ -1,0 +1,9 @@
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\bin\Debug\Sherrr.exe.config
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\bin\Debug\Sherrr.exe
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\bin\Debug\Sherrr.pdb
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\obj\Debug\Sherrr.csprojResolveAssemblyReference.cache
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\obj\Debug\Sherrr.Form1.resources
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\obj\Debug\Sherrr.Properties.Resources.resources
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\obj\Debug\Sherrr.csproj.GenerateResource.Cache
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\obj\Debug\Sherrr.exe
+C:\Users\localhost\Desktop\Text Encryption\Sherrr\Sherrr\obj\Debug\Sherrr.pdb
